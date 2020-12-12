@@ -1,7 +1,8 @@
 this is first commit
    "hello intellipaat"
-
-   my f1 commit
-
+<<<<<<< HEAD
+   my f1 commit 
+=======
 this is second commit 
   "i am f2"  
+>>>>>>> f2
